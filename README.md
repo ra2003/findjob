@@ -25,6 +25,8 @@ Then
 pip install findjob
 ~~~
 
+**Obs:** Should work on python3 only.
+
 # Usage
 
 ~~~
