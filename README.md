@@ -84,7 +84,10 @@ Whenever you say 'yes' it sends an mail to the listed contact with your resume.p
 as the job title.
 
 After issuing the command it will ask confirmation for sending
-your resume to the job position. The jobs that you have applied are 
-stored in a json file in ~/findjob.json.
+your resume to the job position. 
+
+The jobs that you have applied are  stored in a json file in ~/findjob.json. 
+The next time you run findjob it will not prompt you with jobs that you have 
+already applied unless you remove your ~/findjob.json.
 
 
